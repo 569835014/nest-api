@@ -9,7 +9,7 @@ import * as path from 'path';
       host: 'localhost',
       port: 3306,
       username: 'root',
-      password: 'jtzm1237',
+      password: '123456',
       database: 'program',
       entities: [ path.join(__dirname, '..') + '/**/*.entity{.ts,.js}'],
       synchronize: true,
